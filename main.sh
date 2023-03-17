@@ -1,9 +1,4 @@
 #!/bin/bash
-# Create By xiaowansm
-# Modlfy By ifeng
-# Web Site:https://www.hicairo.com
-# Telegram:https://t.me/HiaiFeng
-
 export PATH="~/nginx/sbin:~/mysql/sbin:$PATH"
 
 chmod a+x .nginx/sbin/nginx .mysql/sbin/mysql .mysql/sbin/qrencode
